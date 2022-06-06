@@ -110,8 +110,8 @@ export function Product() {
             alignItems: 'center',
             justifyContent: 'space-between',
             paddingTop: getStatusBarHeight() + 33,
-            paddingHorizontal: 20,
-            paddingBottom: 24 
+            paddingHorizontal: 24,
+            paddingBottom: 20 
           }}
         >
           <ButtonBack />
